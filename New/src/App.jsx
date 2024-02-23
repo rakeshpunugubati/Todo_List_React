@@ -63,7 +63,7 @@ const App = () => {
   }
 
   return (
-    <div id="todo-list" className="p-4">
+    <div id="todo-list" className=" h-screen p-4 bg-gray-500">
       <h1 className="text-3xl font-bold mb-4">Todo List</h1>
       <form onSubmit={handleSubmit} className=" mb-4">
         <input
