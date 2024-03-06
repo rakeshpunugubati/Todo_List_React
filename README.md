@@ -11,9 +11,11 @@ This project is a simple TodoList application built using React. It provides use
 *Local Storage: The application utilizes browser local storage to persist the user's tasks between sessions. This ensures that tasks are saved even if the user refreshes the page or closes the browser.
 
 Technologies Used:
+
 *React: The project is built using React, a popular JavaScript library for building user interfaces.
 
 How to Run:
+
 *Clone this repository to your local machine.
 
 *Navigate to the project directory.
