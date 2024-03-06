@@ -1,4 +1,4 @@
-*******TodoList App using React********
+*******TodoList using React *******
 
 This project is a simple TodoList application built using React. It provides users with an intuitive interface to manage their tasks efficiently. The main features of the TodoList app include:
 
